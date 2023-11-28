@@ -1,4 +1,4 @@
-module github.com/xdxdxdxdxd/ffufxxxx/v2
+module github.com/xdxdxdxdxd/ffufxxxx/v3
 
 go 1.17
 
